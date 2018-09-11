@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+}
+h1 {
+	color:#0a0a0a;
+	font-weight: bold;
+	font-size: 60px;
+	text-align: center;
+}
+h2 {
+	color: #0f0f0f;
+	text-align: center;
+	font-size: 50px;
+}
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+}

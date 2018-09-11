@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "HelloWorld-Cross-Platform-by-PaOv6-3SA02",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "HelloWorld"
+  ],
+  "author": "PaOv6",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.9",
+    "electron-packager": "^12.1.1"
+  },
+  "dependencies": {}
+}
